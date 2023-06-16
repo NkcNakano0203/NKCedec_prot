@@ -6,7 +6,7 @@ class Player
     static void Main()
     {
         Player player = new();
-        ATK = 100000;
-        DEF = 0;
+        ATK = 10;
+        DEF = 100;
     }
 }
