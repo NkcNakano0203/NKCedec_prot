@@ -1,2 +1,2 @@
 # Test_PullRequests
-プルリクを理解する
+NKCedecで使うよう
